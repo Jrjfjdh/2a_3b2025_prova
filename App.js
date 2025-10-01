@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.texto}>2°ano</Text>
       <Text style={styles.texto}>3°Bimestre</Text>
-      <Text style={styles.texto}>Gabriel Müller</Text>
+      <Text style={styles.texto}>Gabriel Müller Ferreira Neves</Text>
       <StatusBar style="auto" />
     </View>
   );
